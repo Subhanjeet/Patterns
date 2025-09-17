@@ -1,3 +1,8 @@
+//     *
+//    * *
+//   *   *
+//  *     *
+// *********
 public class pattern14 {
     public static void main(String[] args) {
         int n = 5;
@@ -11,8 +16,8 @@ public class pattern14 {
                 } else {
                     System.out.print(" ");
                 }
-                sou
             }
+            System.out.println();
         }
     }
 }
