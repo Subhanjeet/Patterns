@@ -127,4 +127,3 @@ Do not start by coding immediately.
 * Then implement
 
 That gap between thinking and coding is where real improvement happens.
-
